@@ -21,7 +21,7 @@ contactlist = [
     ['Ganesh Pawar','85967412']
     ]
 
-Name = StringVar()
+Name = StringVar
 Number = StringVar()
 
 
